@@ -19,10 +19,10 @@
 - 📱 **[Turbo Gadget Hub](https://www.ebay.ca/usr/turbo_gadget_hub) ([Facebook Marketplace](https://www.facebook.com/marketplace/profile/100014590719018/))** – Curating high-demand **tech gadgets & collectibles**.
 
 🏛️ **Previous Professional Experience**  
-📌 **Corridor Co-op Associate of Operations** at the Ministry of Transportation  
+📌 **Corridor Co-op Associate of Operations** at the [Ministry of Transportation](https://www.ontario.ca/page/ministry-transportation)  
 - **Enhanced system reliability** and **led GIS deployment** for mapping tools.
 
-📌 **Promotions & Marketing Student Coordinator** at Brock University Student Union  
+📌 **Promotions & Marketing Student Coordinator** at [Brock University Student Union](https://www.brockbusu.ca/)  
 - **Increased student engagement** and successfully managed large-scale events.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
