@@ -52,8 +52,6 @@
 
   <!-- 🧪 QA & Workflow -->
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Validation-QA%20Focused-green?style=for-the-badge">
 
   <!-- 💻 Development -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -63,7 +61,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
   <!-- 🔧 Tools -->
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
