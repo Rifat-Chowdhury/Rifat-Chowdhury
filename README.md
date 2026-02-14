@@ -2,9 +2,9 @@
 
 # 👋 Hey there! I'm Rifat Chowdhury
 
-🚀 **Entrepreneur | AI Storytelling Enthusiast | Software Innovator**  
+📊 **Data Analyst | QA & Systems Testing | SQL • Python • BI  **  
 🎓 **Studied [Computer Science](https://brocku.ca/) at Brock University, Canada**  
-💡 Passionate about **building scalable e-commerce businesses, leveraging AI for creative storytelling, and developing innovative software solutions.**  
+💡 Passionate about transforming complex datasets into actionable insights and improving system reliability through data-driven analysis and structured problem-solving.
 
 ## 🚀 What I Do
 
