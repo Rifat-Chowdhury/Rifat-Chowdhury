@@ -3,7 +3,6 @@
 
 📊 Data Analyst | Data Engineer | QA & Systems Testing <br>
 🎓 Studied Computer Science at [Brock University](https://brocku.ca/), Canada <br>
-
 💡 Passionate about transforming complex datasets into actionable insights and improving system reliability through data-driven analysis and structured problem-solving.
 
 
