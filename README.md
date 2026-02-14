@@ -1,9 +1,8 @@
 <!-- Level 1: Add custom code -->
+👋 Hey there! I'm Rifat Chowdhury <br>
 
-# 👋 Hey there! I'm Rifat Chowdhury
-
-📊 Data Analyst | Data Engineer | QA & Systems Testing  
-🎓 Studied Computer Science at [Brock University](https://brocku.ca/), Canada  
+📊 Data Analyst | Data Engineer | QA & Systems Testing <br>
+🎓 Studied Computer Science at [Brock University](https://brocku.ca/), Canada <br>
 
 💡 Passionate about transforming complex datasets into actionable insights and improving system reliability through data-driven analysis and structured problem-solving.
 
