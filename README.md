@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Rifat Chowdhury
 
-📊 **Data Analyst | QA & Systems Testing | SQL • Python • BI  **  
+📊 Data Analyst | QA & Systems Testing | SQL • Python • BI   
 🎓 **Studied [Computer Science](https://brocku.ca/) at Brock University, Canada**  
 💡 Passionate about transforming complex datasets into actionable insights and improving system reliability through data-driven analysis and structured problem-solving.
 
