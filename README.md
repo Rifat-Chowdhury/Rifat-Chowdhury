@@ -5,18 +5,24 @@
 🎓 Studied Computer Science at [Brock University](https://brocku.ca/), Canada <br>
 💡 Passionate about transforming complex datasets into actionable insights and improving system reliability through data-driven analysis and structured problem-solving.
 
-
 ## 🚀 What I Do
 
-🎬 **AI Storytelling & Content Creation**  
-📌 **Founder, [Cognition Studios](https://www.youtube.com/@CognitionStudios0)**  
-- Leveraging AI to revolutionize storytelling across **[YouTube](https://www.youtube.com/@CognitionStudios0)**, **[Instagram](https://www.instagram.com/cognition_studios/)** & **[LinkedIn](https://www.linkedin.com/company/cognitionstudios0/)**
-- Producing high-quality AI-driven videos with engaging narratives.
+### 📊 Data Analytics
+- Analyze structured datasets using **SQL & Python**
+- Perform data cleaning, transformation & exploratory data analysis (EDA)
+- Build dashboards using **Power BI & Tableau**
+- Translate business questions into measurable KPIs
 
-🛍️ **Entrepreneurship & E-commerce**  
-📌 **Managing & Scaling Two Online Stores:**  
-- 🏆 **[Elegant Fashion CA](https://www.ebay.ca/usr/elegantfashionca)** – Specializing in handcrafted **Indian jewelry & bracelets**.  
-- 📱 **[Turbo Gadget Hub](https://www.ebay.ca/usr/turbo_gadget_hub) ([Facebook Marketplace](https://www.facebook.com/marketplace/profile/100014590719018/))** – Curating high-demand **tech gadgets & collectibles**.
+### 🧪 Quality Assurance & Systems Testing
+- Conduct structured system testing and edge-case validation
+- Identify, document & report high-impact bugs
+- Improve system reliability and user accessibility
+- Collaborate in Agile environments (Jira, sprint planning)
+
+### 🗄 Data & Systems Projects
+- Design relational databases and write complex SQL queries
+- Work with real-world datasets (multi-year, multi-table analysis)
+- Develop end-to-end data pipelines from raw data to insight generation
 
 🏛️ **Previous Professional Experience**  
 📌 **Corridor Co-op Associate of Operations** at the [Ministry of Transportation](https://www.ontario.ca/page/ministry-transportation)  
@@ -53,17 +59,4 @@
   <img src="https://img.shields.io/badge/Maya-%23238BCB.svg?style=for-the-badge&logo=autodesk&logoColor=white">
 </div>
 
-# 💻 Featured YouTube Videos
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!-- Code to get the timestamp:
-let date_string = "write the correct date";
-let date = new Date(date_string);
-
-let timestamp = Math.floor(date.getTime() / 1000);
-console.log(timestamp); -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![The Last Spark: A Post-Apocalyptic Journey of Hope and Redemption](https://ytcards.demolab.com/?id=31TELRcXcmM&title=The+Last+Spark:+A+Post+Apocalyptic+Journey+of+Hope+and+Redemption&lang=en&timestamp=1737954000&background_color=%230d1117&title_color=%23ffffff&stats_color=none&max_title_lines=1&width=250&border_radius=5&duration=436 "A Journey Beyond Code | An Animated Sci-Fi Adventure")](https://youtu.be/eUSIubXSz94?si=Df9HZmKl76IROk0Z)
-[![A Journey Beyond Code | An Animated Sci-Fi Adventure](https://ytcards.demolab.com/?id=eUSIubXSz94&title=A+Journey+Beyond+Code+An+Animated+Sci-Fi+Adventure&lang=en&timestamp=1737003600&background_color=%230d1117&title_color=%23ffffff&stats_color=none&max_title_lines=1&width=250&border_radius=5&duration=436 "A Journey Beyond Code | An Animated Sci-Fi Adventure")](https://youtu.be/eUSIubXSz94?si=Df9HZmKl76IROk0Z)
-[![Eclipse of Serenity | A Cosmic Journey of Mystery and Connection](https://ytcards.demolab.com/?id=iZj7TXUo7So&title=Eclipse+of+Serenity+A+Cosmic+Journey+of+Mystery+and+Connection&lang=en&timestamp=1737435600&background_color=%230d1117&title_color=%23ffffff&stats_color=none&max_title_lines=1&width=250&border_radius=5&duration=436 "Eclipse of Serenity | A Cosmic Journey of Mystery and Connection")](https://youtu.be/iZj7TXUo7So?si=sZZEBiKZakitjOTC)
 [![Engineering Marvels: Ancient Water Systems That Shaped History!!](https://ytcards.demolab.com/?id=NM6CbSL2QMs&title=Engineering+Marvels:+Ancient+Water+Systems+That+Shaped+History!!&lang=en&timestamp=1737090000&background_color=%230d1117&title_color=%23ffffff&stats_color=none&max_title_lines=1&width=250&border_radius=5&duration=436 "A Journey Beyond Code | An Animated Sci-Fi Adventure")](https://youtu.be/NM6CbSL2QMs?si=7Cr95iowBTljtORM)<!-- END YOUTUBE-CARDS -->
