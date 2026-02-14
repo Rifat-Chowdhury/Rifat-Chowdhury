@@ -37,27 +37,40 @@
 
 # 💻 Tech Stack
 
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Miro-%23FFD02F.svg?style=for-the-badge&logo=miro&logoColor=black">
-  <img src="https://img.shields.io/badge/ArcGIS-%233DA832.svg?style=for-the-badge&logo=esri&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Suite-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Suite-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Maple-%231E90FF.svg?style=for-the-badge&logo=maple&logoColor=white">
-  <img src="https://img.shields.io/badge/Maya-%23238BCB.svg?style=for-the-badge&logo=autodesk&logoColor=white">
+
+  <!-- 📊 Data & Analytics (Primary Signal) -->
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
+  <!-- 🧪 QA & Workflow -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Validation-QA%20Focused-green?style=for-the-badge">
+
+  <!-- 💻 Development -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+  <!-- 🔧 Tools -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+  <!-- 🎨 Supporting / Creative -->
+  <img src="https://img.shields.io/badge/Maple-1E90FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
+
 </div>
 
-[![Engineering Marvels: Ancient Water Systems That Shaped History!!](https://ytcards.demolab.com/?id=NM6CbSL2QMs&title=Engineering+Marvels:+Ancient+Water+Systems+That+Shaped+History!!&lang=en&timestamp=1737090000&background_color=%230d1117&title_color=%23ffffff&stats_color=none&max_title_lines=1&width=250&border_radius=5&duration=436 "A Journey Beyond Code | An Animated Sci-Fi Adventure")](https://youtu.be/NM6CbSL2QMs?si=7Cr95iowBTljtORM)<!-- END YOUTUBE-CARDS -->
+
